@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/acogeme_admin_v2/static/css/main.360269fb.chunk.css",
-    "main.js": "/acogeme_admin_v2/static/js/main.423870be.chunk.js",
-    "main.js.map": "/acogeme_admin_v2/static/js/main.423870be.chunk.js.map",
-    "runtime-main.js": "/acogeme_admin_v2/static/js/runtime-main.4e9c91be.js",
-    "runtime-main.js.map": "/acogeme_admin_v2/static/js/runtime-main.4e9c91be.js.map",
-    "static/js/2.c0e6c3bd.chunk.js": "/acogeme_admin_v2/static/js/2.c0e6c3bd.chunk.js",
-    "static/js/2.c0e6c3bd.chunk.js.map": "/acogeme_admin_v2/static/js/2.c0e6c3bd.chunk.js.map",
-    "index.html": "/acogeme_admin_v2/index.html",
-    "static/css/main.360269fb.chunk.css.map": "/acogeme_admin_v2/static/css/main.360269fb.chunk.css.map",
-    "static/js/2.c0e6c3bd.chunk.js.LICENSE.txt": "/acogeme_admin_v2/static/js/2.c0e6c3bd.chunk.js.LICENSE.txt"
+    "main.css": "/acogeme_admin_v3/static/css/main.360269fb.chunk.css",
+    "main.js": "/acogeme_admin_v3/static/js/main.423870be.chunk.js",
+    "main.js.map": "/acogeme_admin_v3/static/js/main.423870be.chunk.js.map",
+    "runtime-main.js": "/acogeme_admin_v3/static/js/runtime-main.648be9a6.js",
+    "runtime-main.js.map": "/acogeme_admin_v3/static/js/runtime-main.648be9a6.js.map",
+    "static/js/2.6dd60c04.chunk.js": "/acogeme_admin_v3/static/js/2.6dd60c04.chunk.js",
+    "static/js/2.6dd60c04.chunk.js.map": "/acogeme_admin_v3/static/js/2.6dd60c04.chunk.js.map",
+    "index.html": "/acogeme_admin_v3/index.html",
+    "static/css/main.360269fb.chunk.css.map": "/acogeme_admin_v3/static/css/main.360269fb.chunk.css.map",
+    "static/js/2.6dd60c04.chunk.js.LICENSE.txt": "/acogeme_admin_v3/static/js/2.6dd60c04.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e9c91be.js",
-    "static/js/2.c0e6c3bd.chunk.js",
+    "static/js/runtime-main.648be9a6.js",
+    "static/js/2.6dd60c04.chunk.js",
     "static/css/main.360269fb.chunk.css",
     "static/js/main.423870be.chunk.js"
   ]
